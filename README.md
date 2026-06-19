@@ -50,12 +50,6 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaachhk02&show_icons=true&theme=dark)
-
----
-
 **Thanks for visiting my profile! Happy coding! 🚀**
 
 # 🇪🇸 Español
@@ -107,3 +101,7 @@ Estoy trabajando en varios proyectos para ampliar mis habilidades en diferentes 
 Explora mis repositorios y no dudes en contactarme si quieres colaborar o hablar sobre algún proyecto.
 
 - **GitHub:** [@isaachhk02](https://github.com/isaachhk02)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaachhk02&show_icons=true&theme=dark)
