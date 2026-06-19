@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a 24-year-old developer passionate about creat
 
 - **Name:** Isaac
 - **Age:** 24 years old
-- **Location:** [Add your location if desired]
+- **Location:** Spain
 - **Interests:** Game Development, Software Engineering, Problem Solving
 
 ---
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a 24-year-old developer passionate about creat
 
 ### Technologies & Tools
 - **Unity 3D** - Game Development Engine
-
+- **GNU/Linux** - Operating system
 ---
 
 ## 📚 Featured Projects
