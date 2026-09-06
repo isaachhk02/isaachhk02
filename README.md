@@ -1,4 +1,4 @@
-Bienvenid@ a mi perfil de GitHub! Soy un desarrollador de 24 años apasionado por crear software y experiencias interactivas. Me encanta aprender nuevas tecnologías y mejorar continuamente mis habilidades de programación.
+Os doy la bienvenida a mi perfil de GitHub! Soy un desarrollador de 24 años apasionado por crear software y experiencias interactivas. Me encanta aprender nuevas tecnologías y mejorar continuamente mis habilidades de programación.
 
 ---
 
